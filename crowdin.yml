@@ -1,0 +1,5 @@
+files:
+  - source: /en/src/*.strings
+    translation: /en/src/%two_letters_code%/%original_file_name%
+  - source: /en/src/*.stringsdict
+    translation: /en/src/%two_letters_code%/%original_file_name%
