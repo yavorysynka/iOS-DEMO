@@ -1,10 +1,11 @@
-"unique_identifier_1" = "Welcome New Crowdin!";
+"unique_identifier_1" = "Bienvenue à Crowdin !";
 /* comment for string 2 */
-"unique_identifier_3" = "View";
-"unique_identifier_4" = "About";
-"unique_identifier_5" = "About Me";
-"unique_identifier_6" = "Current Password";
-"unique_identifier_7" = "New Password";
-"unique_identifier_8" = "Change Password";
-"unique_identifier_9" = "Your password reseted successully!";
-"unique_identifier_10" = "Hello, %@!";
+"unique_identifier_3" = "Voir";
+"unique_identifier_4" = "À propos de";
+"unique_identifier_5" = "À propos de moi";
+"unique_identifier_6" = "Mot de passe actuel";
+"unique_identifier_7" = "Nouveau mot de passe";
+"unique_identifier_8" = "Changer le mot de passe";
+"unique_identifier_9" = "Votre mot de passe a été réinitialisé avec succès !";
+"unique_identifier_10" = "Bonjour,%@ !";
+"1" = "Bonjour,%@ !";
