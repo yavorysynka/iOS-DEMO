@@ -21,7 +21,7 @@
     <key>participants.people.count</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>Welcome New Crowdin!</string>
+      <string>Willkommen Olga!</string>
       <key>lu_number_of_people</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -53,7 +53,7 @@
     <key>content.system.missing_messages.subtitle_removed</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>Welcome New Crowdin!</string>
+      <string>Willkommen Olga!</string>
       <key>lu_number_of_users</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
